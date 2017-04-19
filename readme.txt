@@ -8,6 +8,11 @@ B
 B
 
 A
+A
+B
+B
+now i have a fixZZ
+A
 dddt
 exit
 
