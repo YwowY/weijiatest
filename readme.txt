@@ -1,4 +1,15 @@
-creating a new branch is simple &quick
+<<<<<<< HEAD
+C
+C
+C
+C
+C
+C
+C
+creating a new branch is quick and simple &quick
+=======
+creating a new branch is quick and simple
+>>>>>>> feature1
 aaaaaaaaaaawocao
 creat a new branch:;
 C
