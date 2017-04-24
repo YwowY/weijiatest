@@ -1,3 +1,5 @@
+this is a new branch again
+B
 <<<<<<< HEAD
 C
 C
